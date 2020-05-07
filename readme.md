@@ -1,4 +1,4 @@
-GUIDE TO AUTOMATING GRAPH STATE CALCULATIONS.
+Guide to automating graph state calculations.
 ---------------------------------------------
 
 This code generates the 'graph state' corresponding to a particular mathematical graph. Graph states are entangled quantum states that are useful for various tasks in quantum information and computation. 
